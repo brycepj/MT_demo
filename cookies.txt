@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-mormonthink.com	TRUE	/	FALSE	1999999999	PHPSESSID	df2bf8adc5cb769c3f292df6a22be3c9
-
