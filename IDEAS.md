@@ -1,6 +1,6 @@
 - Consider switching to MD converter (static site generator) or doing it manually
 - Change image refs to absolute urls that are accessed even in development
-- They live on the server, and are backed up somewhere, perhaps on dropbox or in the server internally or something.
+- They live on the server, and are backed up somewhere, perhaps on dropbox or in the server internallv   y or something.
 - Fix responsiveness issues
 - Figure out how to initially get the thing onto git. 
 - Upgrading to VPS without changing IP info
